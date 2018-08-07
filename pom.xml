@@ -24,7 +24,7 @@
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>Internal Snapshots</name>
-        <url>http://18.191.92.146:8080/nexus-2.14.8-01/content/repositories/snapshots/</url>
+        <url>http://54.215.248.6:8080/nexus-2.14.9-01/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
         <id>InternalReleases</id>
