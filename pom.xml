@@ -24,7 +24,7 @@
     <repository>
         <id>InternalReleases</id>
         <name>Internal Releases</name>
-        <url>http://52.53.164.165:8080/nexus-2.14.9-01/content/repositories/releases/phaneendra/project/</url>
+        <url>http://52.53.164.165:8080/nexus-2.14.9-01/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>InternalSnapshots</id>
