@@ -24,12 +24,12 @@
     <repository>
         <id>InternalReleases</id>
         <name>InternalReleases</name>
-        <url>http://54.219.133.154:8080/nexus-2.14.9-01/content/repositories/releases/</url>
+        <url>http://54.183.203.108:8080/nexus-2.14.9-01/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>InternalSnapshots</name>
-        <url>http://54.219.133.154:8080/nexus-2.14.9-01/content/repositories/snapshots/</url>
+        <url>http://54.183.203.108:8080/nexus-2.14.9-01/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
