@@ -2,7 +2,7 @@
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+  <modelVersion>2.0.0</modelVersion>
  
 
   <groupId>org.dep.sonatype</groupId>
@@ -24,12 +24,12 @@
     <repository>
         <id>InternalReleases</id>
         <name>InternalReleases</name>
-        <url>http://54.183.203.108:8080/nexus-2.14.9-01/content/repositories/releases/</url>
+        <url>http://54.241.132.189:8080/nexus-2.14.9-01/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>InternalSnapshots</name>
-        <url>http://54.183.203.108:8080/nexus-2.14.9-01/content/repositories/snapshots/</url>
+        <url>http://54.241.132.189:8080/nexus-2.14.9-01/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
